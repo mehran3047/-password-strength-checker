@@ -49,7 +49,6 @@ def check_password(password):
 
     print("------------------------------------")
 
-
 print("PASSWORD STRENGTH CHECKER")
 password = getpass.getpass("Enter your password: ")
 
